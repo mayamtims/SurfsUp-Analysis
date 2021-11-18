@@ -10,6 +10,7 @@ There are three major points we can takeaway from the comparison:
 3. There are 1700 points of data for the month of June and 1517 for the month of December. There is enough 
 
 Summary statistics tables for June (left) and December (right):
+
 ![june_temps](https://github.com/mayamtims/SurfsUp-Analysis/blob/main/Resources/june_temps.png)
 ![dec_temps](https://github.com/mayamtims/SurfsUp-Analysis/blob/main/Resources/dec_temps.png)
 
